@@ -1,0 +1,1 @@
+Symbols, possibly in the standard sld format, but also in svg and other common formats, to be used for styling maps.
